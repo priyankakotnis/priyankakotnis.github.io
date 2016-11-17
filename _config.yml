@@ -73,7 +73,7 @@ coursera:
       #date: September 16, 2013
    
 #List of interesting Github repo/projects to include - optional
-github: TBD
+github: priyankakotnis/projects/msc-dissertation/spark-trident-bash-ansible
 
 #Stackoverflow flair is optional
 stackoverflow:
